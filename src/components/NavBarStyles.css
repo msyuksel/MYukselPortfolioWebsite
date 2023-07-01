@@ -9,6 +9,12 @@
     z-index: 10;
 }
 
+.header-bg {
+    background-color: rgb(30, 30, 30);
+    transition: 0.5s;
+}
+
+
 .nav-menu {
     display: flex;
 }
