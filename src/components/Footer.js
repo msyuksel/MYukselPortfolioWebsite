@@ -1,6 +1,6 @@
-import "./FooterStyles.css"
+import "./FooterStyles.css";
 
-import React from 'react'
+import React from 'react';
 
 import { FaFacebook, FaHome, FaLinkedin, FaMailBulk, FaPhone, FaTwitter } from "react-icons/fa"
 
