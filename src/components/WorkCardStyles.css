@@ -32,14 +32,21 @@
     text-align: justify;
 }
 
-.pro-buttons {
+.pro-btns {
     display: flex;
     justify-content: space-between;
     padding: 0.5rem 0;
 }
 
-.pro-buttons .btn {
-    padding: 0.5rem 1rem;
+.pro-btns .btn {
+    padding: 10px;
+    margin: 10px;
+}
+
+.nav-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 @media screen and (max-width:740px) {
