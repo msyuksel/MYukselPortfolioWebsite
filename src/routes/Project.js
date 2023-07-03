@@ -3,8 +3,8 @@ import React from 'react';
 import NavBar from '../components/NavBar';
 import Footer from '../components/Footer';
 import HeroImg2 from '../components/HeroImg2';
+import Work from '../components/Work';
 import PricingCard from '../components/PricingCard';
-import WorkCard from '../components/WorkCard';
 
 //add <PricingCard/> if you want that feature
 const Project = () => {
@@ -13,7 +13,7 @@ const Project = () => {
       <NavBar />
       <HeroImg2 heading="PROJECTS"
         text="A showcase of my portfolio" />
-      <WorkCard /> 
+      <Work />
       <Footer />
     </div>
   )

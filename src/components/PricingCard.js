@@ -1,7 +1,8 @@
 import { Link } from "react-router-dom";
 import "./PricingCardStyles.css";
 
-//Don't plan on using this feature anytime soon. Allows for adding paid services
+//Don't plan on using this feature anytime soon. 
+//Allows for adding paid services
 const PricingCard = () => {
     return <div className="pricing">
         <div className="card-container">
