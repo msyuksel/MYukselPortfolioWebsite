@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/MYukselPortfolioWebsite/static/css/main.0683e0cb.css",
-    "main.js": "/MYukselPortfolioWebsite/static/js/main.f77c4cd8.js",
-    "static/media/cup-of-coffee-1280537.jpg": "/MYukselPortfolioWebsite/static/media/cup-of-coffee-1280537.d88adced9827f867598b.jpg",
-    "index.html": "/MYukselPortfolioWebsite/index.html",
-    "main.0683e0cb.css.map": "/MYukselPortfolioWebsite/static/css/main.0683e0cb.css.map",
-    "main.f77c4cd8.js.map": "/MYukselPortfolioWebsite/static/js/main.f77c4cd8.js.map"
+    "main.css": "/static/css/main.0683e0cb.css",
+    "main.js": "/static/js/main.f7763abf.js",
+    "static/media/cup-of-coffee-1280537.jpg": "/static/media/cup-of-coffee-1280537.d88adced9827f867598b.jpg",
+    "index.html": "/index.html",
+    "main.0683e0cb.css.map": "/static/css/main.0683e0cb.css.map",
+    "main.f7763abf.js.map": "/static/js/main.f7763abf.js.map"
   },
   "entrypoints": [
     "static/css/main.0683e0cb.css",
-    "static/js/main.f77c4cd8.js"
+    "static/js/main.f7763abf.js"
   ]
 }
