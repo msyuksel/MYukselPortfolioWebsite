@@ -34,7 +34,7 @@ const Footer = () => {
                         About me
                     </h4>
                     <p>
-                        I'm Mehmet Yuksel, a life long coder and developer. I started as an Automation Tester, and have since done web developement, mobile developement, and even some game developement with Unity 3D.
+                        I'm Mehmet Yuksel, a life long coder and developer. I started as an Automation Tester, and have since done web development, mobile development, and even some game development with Unity 3D.
                     </p>
                     <div className="social">
                         <FaLinkedin size={20} style={{ color: "white", marginRight: "2rem" }} />
