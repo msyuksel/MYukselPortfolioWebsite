@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MYukselPortfolioWebsite/static/css/main.86763bc4.css",
+    "main.css": "/MYukselPortfolioWebsite/static/css/main.eef5c30f.css",
     "main.js": "/MYukselPortfolioWebsite/static/js/main.6e6ebe2b.js",
     "static/media/cup-of-coffee-1280537.jpg": "/MYukselPortfolioWebsite/static/media/cup-of-coffee-1280537.d88adced9827f867598b.jpg",
     "static/media/PortfolioWebsitePic.jpg": "/MYukselPortfolioWebsite/static/media/PortfolioWebsitePic.8d70e0a8941bc338c6b7.jpg",
     "index.html": "/MYukselPortfolioWebsite/index.html",
-    "main.86763bc4.css.map": "/MYukselPortfolioWebsite/static/css/main.86763bc4.css.map",
+    "main.eef5c30f.css.map": "/MYukselPortfolioWebsite/static/css/main.eef5c30f.css.map",
     "main.6e6ebe2b.js.map": "/MYukselPortfolioWebsite/static/js/main.6e6ebe2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.86763bc4.css",
+    "static/css/main.eef5c30f.css",
     "static/js/main.6e6ebe2b.js"
   ]
 }
