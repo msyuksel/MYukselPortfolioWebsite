@@ -11,10 +11,7 @@ const AboutContent = () => {
       <div className="left">
         <h1>Who am I?</h1>
         <p>
-          I'm Mehmet Yuksel, a life long coder and developer. I started as an
-          Automation Tester, and have since done web developement, mobile
-          developement, and even some game developement with Unity 3D.{" "}
-        </p>
+        My name is Mehmet Yuksel and I have a passion for coding and developing software. I began my career as an Automation Tester, where I learned how to write scripts and test cases for various applications. Later, I expanded my skills to web developement, where I created websites using HTML, CSS, JavaScript and other frameworks. I also ventured into mobile developement, where I built apps for Android and iOS devices using native or cross-platform tools. Recently, I have been exploring game developement with Unity 3D, where I can unleash my creativity and imagination. Coding and developing are my life long hobbies and I enjoy learning new technologies and challenges.</p>
         <Link to="/contact">
           <button className="btn">Contact</button>
         </Link>

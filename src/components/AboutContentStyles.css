@@ -12,7 +12,7 @@
   text-align: center;
   margin: auto;
   padding: 1rem;
-  max-width: 350px;
+  max-width: 800px;
 }
 
 .about .left p {
@@ -20,7 +20,7 @@
 }
 
 .about .right {
-  max-width: 700px;
+  max-width: 900px;
 }
 
 .right .img-container {
@@ -37,7 +37,7 @@
 }
 
 .right .top {
-  grid-column: 1 / span 8;
+  grid-column: 2 / span 10;
   grid-row: 1;
   padding-top: 20%;
   z-index: 6;

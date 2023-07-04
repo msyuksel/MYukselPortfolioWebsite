@@ -10,8 +10,8 @@ const Contact = () => {
     <div>
       <NavBar />
       <HeroImg2
-        heading="CONTACT ME"
-        text="Let's chat about any new projects or opportunities we may bring each other"
+        heading="CONTACT ME [UNDER DEVELOPEMENT]"
+        text={<span>My email is <a href="mailto:myukseldev@gmail.com">MYukseldev@gmail.com</a>. Let's chat about any new projects or opportunities</span>}
       />
       <Form />
       <Footer />
