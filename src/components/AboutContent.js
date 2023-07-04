@@ -16,7 +16,7 @@ const AboutContent = () => {
           developement, and even some game developement with Unity 3D.{" "}
         </p>
         <Link to="/contact">
-          <button className="btn">Contract</button>
+          <button className="btn">Contact</button>
         </Link>
       </div>
       <div className="right">
