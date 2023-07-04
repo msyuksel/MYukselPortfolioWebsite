@@ -22,8 +22,8 @@ const ProjectCardData = [
         imgsrc: pro4,
         title:"Terminal Hacker",
         text: "My first ever Unity 3D game made with C#. It's a simple text base game where you try to guess the word given a scrambled set of letters, kind of like Jumble or Word Scramble",
-        view: "https://sharemygame.com/@msenih/project-boost-udemy",
-        source:"https://github.com/msyuksel/3_Project_Boost",
+        view: "https://sharemygame.com/@msenih/terminal-hacker-udemy-project",
+        source:"https://github.com/msyuksel?tab=repositories",
     },
     {
         imgsrc: pro3,
