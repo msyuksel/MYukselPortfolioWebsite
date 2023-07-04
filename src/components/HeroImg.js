@@ -20,7 +20,7 @@ const HeroImg = () => {
                     SDET, MOBILE/WEB, AND UNITY 3D.
                 </h1>
                 <div>
-                    <Link to="/project" className="btn">
+                    <Link to="/projects" className="btn">
                         Projects
                     </Link>
                     <Link to="/Contact" className="btn btn-light">
