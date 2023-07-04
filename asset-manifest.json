@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/MYukselPortfolioWebsite/static/css/main.a5cdae55.css",
-    "main.js": "/MYukselPortfolioWebsite/static/js/main.bd48bf9e.js",
+    "main.css": "/MYukselPortfolioWebsite/static/css/main.2385afa1.css",
+    "main.js": "/MYukselPortfolioWebsite/static/js/main.951c3e2b.js",
     "static/media/mail.jpg": "/MYukselPortfolioWebsite/static/media/mail.eb0ad7e050c37a54d381.jpg",
+    "static/media/argonAssault.jpg": "/MYukselPortfolioWebsite/static/media/argonAssault.4d91376ed5a8f8a7674c.jpg",
     "static/media/cup-of-coffee-1280537.jpg": "/MYukselPortfolioWebsite/static/media/cup-of-coffee-1280537.d88adced9827f867598b.jpg",
-    "static/media/PortfolioWebsitePic.jpg": "/MYukselPortfolioWebsite/static/media/PortfolioWebsitePic.8d70e0a8941bc338c6b7.jpg",
+    "static/media/hbt.jpg": "/MYukselPortfolioWebsite/static/media/hbt.c5923e771358768f48e2.jpg",
+    "static/media/terminalHacker.jpg": "/MYukselPortfolioWebsite/static/media/terminalHacker.2b324c4870e7fb3208d3.jpg",
+    "static/media/projectBoost.jpg": "/MYukselPortfolioWebsite/static/media/projectBoost.8fc83e02c46ab0962e99.jpg",
     "index.html": "/MYukselPortfolioWebsite/index.html",
-    "main.a5cdae55.css.map": "/MYukselPortfolioWebsite/static/css/main.a5cdae55.css.map",
-    "main.bd48bf9e.js.map": "/MYukselPortfolioWebsite/static/js/main.bd48bf9e.js.map"
+    "main.2385afa1.css.map": "/MYukselPortfolioWebsite/static/css/main.2385afa1.css.map",
+    "main.951c3e2b.js.map": "/MYukselPortfolioWebsite/static/js/main.951c3e2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5cdae55.css",
-    "static/js/main.bd48bf9e.js"
+    "static/css/main.2385afa1.css",
+    "static/js/main.951c3e2b.js"
   ]
 }
