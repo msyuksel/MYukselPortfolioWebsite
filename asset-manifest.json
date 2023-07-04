@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MYukselPortfolioWebsite/static/css/main.f8a2f7fc.css",
-    "main.js": "/MYukselPortfolioWebsite/static/js/main.13851866.js",
+    "main.css": "/MYukselPortfolioWebsite/static/css/main.a5cdae55.css",
+    "main.js": "/MYukselPortfolioWebsite/static/js/main.412333fc.js",
     "static/media/mail.jpg": "/MYukselPortfolioWebsite/static/media/mail.eb0ad7e050c37a54d381.jpg",
     "static/media/cup-of-coffee-1280537.jpg": "/MYukselPortfolioWebsite/static/media/cup-of-coffee-1280537.d88adced9827f867598b.jpg",
     "static/media/PortfolioWebsitePic.jpg": "/MYukselPortfolioWebsite/static/media/PortfolioWebsitePic.8d70e0a8941bc338c6b7.jpg",
     "index.html": "/MYukselPortfolioWebsite/index.html",
-    "main.f8a2f7fc.css.map": "/MYukselPortfolioWebsite/static/css/main.f8a2f7fc.css.map",
-    "main.13851866.js.map": "/MYukselPortfolioWebsite/static/js/main.13851866.js.map"
+    "main.a5cdae55.css.map": "/MYukselPortfolioWebsite/static/css/main.a5cdae55.css.map",
+    "main.412333fc.js.map": "/MYukselPortfolioWebsite/static/js/main.412333fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8a2f7fc.css",
-    "static/js/main.13851866.js"
+    "static/css/main.a5cdae55.css",
+    "static/js/main.412333fc.js"
   ]
 }
