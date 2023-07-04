@@ -3,7 +3,6 @@ import "./FormStyles.css";
 import React, { useState, useCallback } from "react";
 import axios from "axios";
 import { useForm } from "react-hook-form";
-import Alert from "@material-ui/lab/Alert";
 
 const Form = () => {
   // Create state variable for the response
@@ -64,12 +63,8 @@ const Form = () => {
           Submit
         </button>
       </form>
-      {/* Display the alert if any */}
-      {response && (
-        <Alert severity={response.startsWith("Email sent") ? "success" : "error"}>
-          {response}
-        </Alert>
-      )}
+      {/* Display the response if any */}
+      {response && <p>{response}</p>}
     </div>
   );
 };
